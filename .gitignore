@@ -1,0 +1,19 @@
+# Môi trường ảo (Virtual Environments)
+env/
+venv/
+ENV/
+.env/
+
+# Bộ nhớ đệm Python (Python cache)
+**/__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Thư mục cấu hình của các IDE (VS Code, PyCharm)
+.vscode/
+.idea/
+
+# File nhật ký và biến môi trường chứa thông tin bảo mật
+*.log
+.env
