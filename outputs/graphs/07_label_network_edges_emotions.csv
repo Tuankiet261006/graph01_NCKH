@@ -1,0 +1,7 @@
+Label A,Label B,Association
+quiet-still,sad-lonely,0.4976303317535545
+amazed-suprised,angry-aggresive,0.34074074074074073
+relaxing-calm,quiet-still,0.33766233766233766
+relaxing-calm,sad-lonely,0.2818991097922849
+happy-pleased,relaxing-calm,0.26843657817109146
+amazed-suprised,happy-pleased,0.1978798586572438

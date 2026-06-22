@@ -1,0 +1,16 @@
+Label Pair,Label A,Label B,Association
+field | mountain,field,mountain,0.0853932584269663
+beach | mountain,beach,mountain,0.04121475054229935
+foliage | field,foliage,field,0.02977667493796526
+beach | urban,beach,urban,0.02264600715137068
+foliage | mountain,foliage,mountain,0.015283842794759825
+field | urban,field,urban,0.006993006993006993
+beach | field,beach,field,0.0011641443538998836
+mountain | urban,mountain,urban,0.0010384215991692627
+sunset | foliage,sunset,foliage,0.0
+beach | sunset,beach,sunset,0.0
+beach | foliage,beach,foliage,0.0
+sunset | field,sunset,field,0.0
+sunset | urban,sunset,urban,0.0
+sunset | mountain,sunset,mountain,0.0
+foliage | urban,foliage,urban,0.0

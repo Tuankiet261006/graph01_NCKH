@@ -1,0 +1,16 @@
+Label Pair,Label A,Label B,Association
+quiet-still | sad-lonely,quiet-still,sad-lonely,0.4976303317535545
+amazed-suprised | angry-aggresive,amazed-suprised,angry-aggresive,0.34074074074074073
+relaxing-calm | quiet-still,relaxing-calm,quiet-still,0.33766233766233766
+relaxing-calm | sad-lonely,relaxing-calm,sad-lonely,0.2818991097922849
+happy-pleased | relaxing-calm,happy-pleased,relaxing-calm,0.26843657817109146
+amazed-suprised | happy-pleased,amazed-suprised,happy-pleased,0.1978798586572438
+sad-lonely | angry-aggresive,sad-lonely,angry-aggresive,0.05934718100890208
+happy-pleased | angry-aggresive,happy-pleased,angry-aggresive,0.03498542274052478
+amazed-suprised | relaxing-calm,amazed-suprised,relaxing-calm,0.030660377358490566
+amazed-suprised | sad-lonely,amazed-suprised,sad-lonely,0.030211480362537766
+happy-pleased | quiet-still,happy-pleased,quiet-still,0.02280130293159609
+relaxing-calm | angry-aggresive,relaxing-calm,angry-aggresive,0.01569506726457399
+quiet-still | angry-aggresive,quiet-still,angry-aggresive,0.005970149253731343
+happy-pleased | sad-lonely,happy-pleased,sad-lonely,0.003003003003003003
+amazed-suprised | quiet-still,amazed-suprised,quiet-still,0.0
