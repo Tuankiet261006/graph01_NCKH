@@ -1,0 +1,15 @@
+paper_id,Nhóm,Tên bài báo
+P01,MLC,A Review on Multi-Label Learning Algorithms
+P02,MLC,Bayes Optimal Multilabel Classification via Probabilistic CC
+P03,MLC,Discriminative Methods for Multi-Labeled Classification
+P04,MLC,Multi label classification: An overview
+P05,MLC,Multilabel classification via calibrated label ranking
+P06,MLC,On Aggregation in Ensembles of Multilabel Classifiers
+P07,MLC,On Label Dependence in Multi-Label Classification
+P08,MLC,On label dependence and loss minimization in multi-label classification
+P09,MLC,Reliable multi-label classification: Prediction with partial abstention
+P10,MLC,Classifier chains for multi-label classification
+P11,MLC,Classifier Chains: A Review and Perspectives
+P13,MLC,Multilabel Classification with Partial Abstention: Bayes-Optimal Prediction under Label Independence
+P14,MCC,Multi-label Classification using Ensembles of Pruned Sets
+P15,MCC,Random k-Labelsets: An ensemble method for multilabel classification

@@ -1,0 +1,12 @@
+Metric/Loss,Papers
+Hamming loss,14
+F-measure/F1,10
+Subset 0/1 loss,9
+Ranking/Rank loss,7
+Accuracy,6
+Precision,4
+Recall,4
+Jaccard index,2
+Average precision,1
+Log loss,1
+One-error loss,1
